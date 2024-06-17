@@ -1,0 +1,12 @@
+{
+	"name": "storydiffusion",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "storydiffusion",
+    "workspaceFolder": "/app",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "humao.rest-client",
+        "samge.vscode-samge-translate"
+    ]
+}
